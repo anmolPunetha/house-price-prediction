@@ -1,1 +1,1 @@
-# house-price-prediction
+A python based Machine Learning model which successfully predicts the price of a house with given parameters. This was completed while doing an online course of Skify Labs. I have used the Boston house datasheet for the datasets. The test data is 20 percent of the datasets which are randomly chosen. 
